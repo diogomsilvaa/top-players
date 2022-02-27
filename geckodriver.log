@@ -548,3 +548,85 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hN
 JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 6004 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
 * WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
 * Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1645984336909	geckodriver	INFO	Listening on 127.0.0.1:34587
+1645984337407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "48651" "-no-remote" "-profile" "/tmp/rust_mozprofile3053ga"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1645984337837	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3053ga/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48651/devtools/browser/ab37fd24-a028-4cc5-a31c-ae1088d16ffe
+1645984338901	Marionette	INFO	Listening on port 42631
+1645984338922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 486 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 486 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 371 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 371 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 2521 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 2521 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 4853 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 4853 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1645984607378	geckodriver	INFO	Listening on 127.0.0.1:45573
+1645984607380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "37489" "-no-remote" "-profile" "/tmp/rust_mozprofile4c0g8F"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1645984607521	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4c0g8F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37489/devtools/browser/a485a4ec-167b-4a74-89aa-1bd342ce617b
+1645984608429	Marionette	INFO	Listening on port 44229
+1645984608491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 7062 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 7062 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 3085 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 3085 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 7234 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 7234 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+1645985049140	geckodriver	INFO	Listening on 127.0.0.1:47393
+1645985049142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "47055" "-no-remote" "-profile" "/tmp/rust_mozprofilep8dR8K"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1645985049280	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep8dR8K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47055/devtools/browser/0bfdea68-3c98-44ce-ba05-343e9ef1153e
+1645985050204	Marionette	INFO	Listening on port 40629
+1645985050253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 5444 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 5444 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 2825 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 2825 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 3969 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 3969 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 6236 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iRu7R9Kt0H3UwF1-zQK7LLgwIl8DaRlhr3qpKTHCDIY.js line 1 > eval line 6236 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
